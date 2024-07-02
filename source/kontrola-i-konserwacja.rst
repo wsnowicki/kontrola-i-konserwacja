@@ -2,6 +2,9 @@
 Temat 3: Kontrola i Konserwacja 
 ===============================
 
+:Author: - 272780
+         - 272763
+
 Konserwacja bazy danych
 -------------------------------
 
@@ -72,8 +75,3 @@ Zaprojektuj system kontroli danych w sposób skalowalny, aby mógł elastycznie 
 Regularnie przeprowadzaj audyty, aby upewnić się, że procesy kontroli danych są zgodne z pierwotnymi celami i spełniają wymogi prawne. Audyty pozwalają na identyfikację obszarów wymagających ulepszeń oraz zapewnienie ciągłej zgodności z najnowszymi standardami i regulacjami.
 
 
-Autorzy
------------------
-
-- Michał Pawlica
-- Wiktor Nowicki
