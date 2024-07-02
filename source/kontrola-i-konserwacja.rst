@@ -1,5 +1,5 @@
 ===============================
-Temat 3: Kontrola i Konserwacja 
+Temat 3: Kontrola i Konserwacja
 ===============================
 
 :Author: - 272780
@@ -27,7 +27,7 @@ Nie można przecenić znaczenia kontroli danych w dzisiejszym środowisku biznes
 
 
 Planowanie skutecznej kontroli danych
--------------------------------
+--------------------------------------
 
 1. **Określenie celów kontroli danych:**
 Dokładne określenie celów zbierania danych, czyli jasne zdefiniowanie, co chcemy osiągnąć poprzez analizę gromadzonych informacji. Cele powinny być zgodne z celami biznesowymi i strategicznymi organizacji.
