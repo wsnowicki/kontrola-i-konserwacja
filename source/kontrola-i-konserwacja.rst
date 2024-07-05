@@ -1,5 +1,5 @@
 ===============================
-Temat 3: Kontrola i Konserwacja
+Kontrola i Konserwacja
 ===============================
 
 :Author: - 272780
